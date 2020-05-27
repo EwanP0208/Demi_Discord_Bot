@@ -1,0 +1,21 @@
+{
+  "name": "demi-bot",
+  "version": "1.0.0",
+  "description": "Demi Discord Bot for various features",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ewanp0208",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "snoowrap": "^1.21.0",
+    "ytdl-core": "^2.1.1"
+  }
+}
