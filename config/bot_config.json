@@ -4,6 +4,6 @@
         "rightmoveChannelID": "706558152140783616"
     },
     "Rightmove": {
-        "searchURL": "https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=USERDEFINEDAREA%5E%7B%22polylines%22%3A%22kqg%7CHdk~LebC_fAqsAor%40ubDcgHs_EykJei%40%7DuGrj%40aqFxk%40mdE%60%5CihCrdAwjFlsA%7DeBddDixEtcAm%7DAtzDwXbzFjO%60kDpGfcD~eBr%60DhdPfLbuNoxAt%7BJq~%40xv%40gaAxtAgLvfFv%5Eb%60EeTbwBwsAj_AgfBnTmmE~%5Cw_Fen%40%22%7D&maxPrice=200000&sortType=6&propertyTypes=detached%2Csemi-detached%2Cterraced%2Cflat%2Cbungalow&mustHave=&dontShow=retirement%2CsharedOwnership&furnishTypes=&keywords="
+        "searchURL":"https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=REGION%5E87490&radius=10.0&propertyTypes=detached%2Csemi-detached%2Cterraced&primaryDisplayPropertyType=houses&includeSSTC=false&mustHave=&dontShow=&furnishTypes=&keywords=" 
     }
 }
