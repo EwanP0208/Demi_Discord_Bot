@@ -1,9 +1,9 @@
 {
     "Channels": {
-        "redditChannelID": "705502931385974875",
-        "rightmoveChannelID": "706558152140783616"
+        "redditChannelID": "###",
+        "rightmoveChannelID": "###"
     },
     "Rightmove": {
-        "searchURL":"https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=REGION%5E87490&radius=10.0&propertyTypes=detached%2Csemi-detached%2Cterraced&primaryDisplayPropertyType=houses&includeSSTC=false&mustHave=&dontShow=&furnishTypes=&keywords=" 
+        "searchURL":"https://www.rightmove.co.uk/***" 
     }
 }
